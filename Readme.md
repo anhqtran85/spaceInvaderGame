@@ -1,1 +1,1 @@
-## Spave Invader Game using Java GUI
+## Space Invader Game using Java GUI
